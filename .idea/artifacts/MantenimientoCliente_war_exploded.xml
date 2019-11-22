@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="MantenimientoCliente:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/MantenimientoCliente_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="MantenimientoCliente/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="MantenimientoCliente" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="C:/Program Files/NetBeans 8.2/ide/modules/ext/mysql-connector-java-5.1.47-bin.jar" />
+          <element id="file-copy" path="C:/Program Files/NetBeans 8.2/ide/modules/ext/log4j-1.2.15.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
